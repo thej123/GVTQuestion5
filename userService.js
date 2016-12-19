@@ -1,1 +1,2 @@
 Rename method
+Good API
